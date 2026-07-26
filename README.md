@@ -7,3 +7,5 @@ docker run -p 1234:80 --env UPSTREAM_HTTP_ADDRESS='https://caprover.com' caprove
 
 
 Open `http://localhost:1234` in your browser.
+
+https://github.com/nginx/nginx/releases
